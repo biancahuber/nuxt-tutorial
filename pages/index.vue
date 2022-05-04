@@ -1,7 +1,7 @@
 <template>
   <div class="home-page">
     <section class="intro">
-      <h1>Get the latest pinguin news!!!</h1>
+      <h1>Get the latest pinguin news!!!!!</h1>
     </section>
     <div class="posts-page">
       <PostList :posts="loadedPosts"/>
